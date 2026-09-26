@@ -1,8 +1,8 @@
 # Anna Khvorostianova
 
-Senior Platform Engineer on the Developer Experience team at Flink, based in the Netherlands.
+Senior Platform Engineer at Flink, based in the Netherlands, with 10+ years in software.
 
-I came to platform work from test automation, and most of what I build removes a wait on another team. At Flink that has meant self-service tooling that takes a test order through its whole lifecycle from a CLI, an API, a developer-portal page or an AI coding assistant; a load-testing platform on Kubernetes, built on the k6 operator and deployed through GitOps; and contract testing with shared Go and Kotlin libraries, rolled out team by team.
+I came to platform work from test automation, and most of what I build removes a wait on another team. At Flink that has meant self-service tooling that takes a test order through its whole lifecycle from a CLI, an API, a developer-portal page or an AI coding assistant; a service that issues disposable test identities and retires them automatically, taken from design doc to production in one quarter; a load-testing platform on Kubernetes, built on the k6 operator and deployed through GitOps; and contract testing with shared Go and Kotlin libraries, rolled out team by team.
 
 The repositories below are personal projects. None of them contain Flink code or data.
 
